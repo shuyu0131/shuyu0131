@@ -1,4 +1,4 @@
-## Hi there 👋
+[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=shuyu0131)](https://github.com/shuyu0131)
 
 <!--
 **shuyu0131/shuyu0131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
